@@ -6,7 +6,7 @@ A fully functional **Cycle Management Web Application** designed for college cam
 
 ## 🌐 Live Demo
 
-> [Live Site on Vercel]()
+> [Live Site on Vercel](easycycle-wmcg.vercel.app)
 
 ---
 
