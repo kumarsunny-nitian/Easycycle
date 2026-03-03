@@ -1,0 +1,5 @@
+.app{
+  background-image: url('./assets/bicycle_cover.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
